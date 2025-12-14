@@ -1,4 +1,4 @@
-# SHC-HEI-Rearch
+# SHC-HEI-Research 
 Smart Self -"Healing Concrete |Healing Efficiency Index  (HEI) |PhD Research 2025-2026" 
 HEALING EFFICIENCY INDEX (HEI)
 A Proprietary Unified Metric Combining Structural, Durability, and Functional Efficacy
